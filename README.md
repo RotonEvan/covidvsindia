@@ -2,6 +2,13 @@
 
 https://covidvsindia.in.net
 
+# About
+
+This website was developed by Saksham Bhushan and Debajyoti Halder, two students at Indian Institute of Technology Bhilai.
+The goal of this project is to provide a simple, interactive way to visualize the impact of COVID-19 in India. We wanted people to be able to see this as something that brings us all together. This is what India looks like today in terms of effect of Coronavirus, we have to be careful and responsible as a citizen of this country and help make this situation better.
+The data is from Ministry of Health & Family Welfare real-time updates. The TODAY cases/deaths are based on GMT (+0530).
+
+
 # Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
 
 Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.

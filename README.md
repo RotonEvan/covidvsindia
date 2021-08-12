@@ -1,3 +1,5 @@
+## This website is not maintained anymore. We welcome your PRs!
+
 # Project Quarantine
 
 https://covidvsindia.in.net
